@@ -1,4 +1,4 @@
-# tourism
+
 // pages/destinations.tsx
 
 import Link from "next/link";
